@@ -1,0 +1,12 @@
+{
+  "configType": "ROOT",
+  "metadata": {
+    "cliVersion": "1.1.1"
+  },
+  "resources": {
+    "07b5eb5a-1383-414b-892d-987c3af70064": {
+      "location": "apps/git_sync_app3",
+      "resourceType": "APPLICATION"
+    }
+  }
+}

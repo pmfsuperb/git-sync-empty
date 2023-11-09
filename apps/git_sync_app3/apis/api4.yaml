@@ -1,0 +1,116 @@
+blocks:
+  - name: Step1
+    step:
+      email:
+        emailAttachments: ""
+        emailBcc: ""
+        emailBody: ""
+        emailCc: ""
+        emailFrom: Superblocks <app@superblocksmail.com>
+        emailSubject: ""
+        emailTo: ""
+      integration: email
+  - name: Step2
+    step:
+      email:
+        emailAttachments: ""
+        emailBcc: ""
+        emailBody: ""
+        emailCc: ""
+        emailFrom: Superblocks <app@superblocksmail.com>
+        emailSubject: ""
+        emailTo: ""
+      integration: email
+  - name: Step3
+    step:
+      graphql:
+        body: ""
+        headers:
+          - key: Content-Type
+            value: application/json
+            valueOptions: []
+          - key: ""
+            value: ""
+            valueOptions: []
+        path: ""
+      integration: graphql
+  - name: Step4
+    step:
+      integration: 2e90ad4d-7ee6-4d2c-b32e-c73e706fe150
+      postgres:
+        body: |+
+          -- You can use SQL to query data (ex. SELECT * FROM orders;)
+
+        filterBy: []
+        mappedColumns: []
+        operation: run_sql
+        useAdvancedMatching: auto
+        usePreparedSql: true
+  - name: Step5
+    step:
+      integration: 4dccc58c-ff8f-47bf-ae78-99d45dfcbd7f
+      restapiintegration:
+        authType: None
+        body: ""
+        bodyType: jsonBody
+        fileFormKey: file
+        fileName: ""
+        formData: []
+        headers: []
+        httpMethod: GET
+        jsonBody: ""
+        openApiAction: genericHttpRequest
+        openApiSpecRef: ""
+        params: []
+        responseType: auto
+        urlBase: ""
+        urlPath: ""
+  - name: Step6
+    step:
+      integration: 3aa902b4-12c0-417b-b060-370e67994b9d
+      restapiintegration:
+        authType: None
+        body: ""
+        bodyType: jsonBody
+        fileFormKey: file
+        fileName: ""
+        formData: []
+        headers: []
+        httpMethod: GET
+        jsonBody: ""
+        openApiAction: genericHttpRequest
+        openApiSpecRef: ""
+        params: []
+        responseType: auto
+        urlBase: ""
+        urlPath: ""
+  - name: Step7
+    step:
+      integration: e6e7a1ed-11c9-4ce8-97b8-0e3a4393650e
+      restapiintegration:
+        authType: None
+        body: ""
+        bodyType: jsonBody
+        fileFormKey: ""
+        fileName: ""
+        formData: []
+        headers: []
+        httpMethod: GET
+        jsonBody: ""
+        openApiAction: GET /workspaces/{workspace_gid}/audit_log_events
+        openApiSpecRef: e6e7a1ed-11c9-4ce8-97b8-0e3a4393650e_asana_oas.yaml
+        params: []
+        responseType: auto
+        urlBase: ""
+        urlPath: /workspaces/{workspace_gid}/audit_log_events
+metadata:
+  description: ""
+  folder: ""
+  id: 6328f3cf-2e14-4fd7-8115-13f0d199438e
+  name: API4
+  organization: 2f6e8721-cf85-4bce-ba55-f735cc0ac3de
+  tags: {}
+  version: ""
+trigger:
+  application:
+    id: 07b5eb5a-1383-414b-892d-987c3af70064

@@ -1,0 +1,13 @@
+{
+  "apis": {
+    "17e7a796-7575-4214-b5f8-8696d0cc6aaa": "API5",
+    "1c20a740-a8a5-43a7-9d2c-67d6391eba93": "API1",
+    "40f25eff-4770-4735-bb96-21833bbd3b52": "API6",
+    "4dbbf373-11d8-45e6-85f2-2cc5ba38906e": "API3",
+    "6328f3cf-2e14-4fd7-8115-13f0d199438e": "API4",
+    "e091ea62-4359-4a76-ba5c-03421cfa0f9b": "API2"
+  },
+  "configType": "APPLICATION",
+  "defaultPageId": "f9b5f995-ca94-41fa-a065-141cc62104f1",
+  "id": "07b5eb5a-1383-414b-892d-987c3af70064"
+}

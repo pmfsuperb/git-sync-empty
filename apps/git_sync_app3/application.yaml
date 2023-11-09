@@ -1,0 +1,7 @@
+id: 07b5eb5a-1383-414b-892d-987c3af70064
+name: git sync app3
+organizationId: 2f6e8721-cf85-4bce-ba55-f735cc0ac3de
+pages:
+  - id: f9b5f995-ca94-41fa-a065-141cc62104f1
+    isDefault: true
+settings: {}
