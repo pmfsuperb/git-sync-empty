@@ -1,0 +1,132 @@
+applicationId: 276e1c93-da74-4c3a-b847-176d49a54e92
+id: aa43b8b4-b288-44ca-8c8e-4c41cc21e961
+isHidden: false
+layouts:
+  - dsl:
+      apis:
+        apiMap: {}
+      backgroundColor: none
+      cachedData:
+        pageLoadActions:
+          apiDeps: {}
+          apiNames: []
+      canExtend: true
+      children:
+        - canExtend: true
+          children:
+            - backgroundColor: none
+              canExtend: true
+              children:
+                - animateLoading: true
+                  gridColumns: 12
+                  height:
+                    mode: gridUnit
+                    value: 3
+                  isLoading: false
+                  isVisible: true
+                  left:
+                    mode: gridUnit
+                    value: 44
+                  parentId: dwpvpsnarl
+                  text: Label
+                  textAlign: LEFT
+                  textStyle: LABEL
+                  textType: text
+                  top:
+                    mode: gridUnit
+                    value: 11
+                  type: TEXT_WIDGET
+                  verticalAlign: AUTO
+                  widgetId: b44qodehpk
+                  widgetName: Text1
+                  width:
+                    mode: gridUnit
+                    value: 12
+              containerStyle: none
+              detachFromLayout: true
+              dragDisabled: true
+              dynamicBindingPathList: []
+              dynamicTriggerPathList: []
+              gridColumns: 96
+              height:
+                mode: gridUnit
+                value: 106
+              isLoading: false
+              isVisible: true
+              layout: FIXED_GRID
+              left:
+                mode: gridUnit
+                value: 0
+              minHeight:
+                mode: px
+                value: 1292
+              padding:
+                bottom:
+                  mode: px
+                  value: 12
+                left:
+                  mode: px
+                  value: 16
+                right:
+                  mode: px
+                  value: 16
+                top:
+                  mode: px
+                  value: 12
+              parentId: lm2jrimm2x
+              top:
+                mode: gridUnit
+                value: 0
+              type: CANVAS_WIDGET
+              widgetId: dwpvpsnarl
+              widgetName: Canvas1
+              width:
+                mode: gridUnit
+                value: 0
+          detachFromLayout: true
+          dragDisabled: true
+          gridColumns: 96
+          height:
+            mode: gridUnit
+            value: 99
+          isLoading: false
+          isVisible: true
+          left:
+            mode: gridUnit
+            value: 0
+          parentId: "0"
+          shouldScrollContents: true
+          top:
+            mode: gridUnit
+            value: 0
+          type: SECTION_WIDGET
+          widgetId: lm2jrimm2x
+          widgetName: Section1
+          width:
+            mode: gridUnit
+            value: 96
+      detachFromLayout: true
+      dynamicBindingPathList: []
+      gridColumns: 96
+      height:
+        mode: gridUnit
+        value: 99
+      left:
+        mode: gridUnit
+        value: 0
+      stateVars:
+        stateVarMap: {}
+      timers:
+        timerMap: {}
+      top:
+        mode: gridUnit
+        value: 0
+      type: PAGE_WIDGET
+      version: 7
+      widgetId: "0"
+      widgetName: Page
+      width:
+        mode: gridUnit
+        value: 0
+    id: 8abe4018-47ae-4784-9187-619961e76696
+name: Page1

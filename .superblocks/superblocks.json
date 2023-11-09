@@ -7,6 +7,10 @@
     "07b5eb5a-1383-414b-892d-987c3af70064": {
       "location": "apps/git_sync_app3",
       "resourceType": "APPLICATION"
+    },
+    "276e1c93-da74-4c3a-b847-176d49a54e92": {
+      "location": "apps/github_sync_new_app",
+      "resourceType": "APPLICATION"
     }
   }
 }
