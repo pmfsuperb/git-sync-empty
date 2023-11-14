@@ -143,7 +143,7 @@ layouts:
                   isVisible: true
                   left:
                     mode: gridUnit
-                    value: 50
+                    value: 31
                   onClick:
                     - apiNames:
                         - API2
@@ -154,7 +154,7 @@ layouts:
                   text: haha
                   top:
                     mode: gridUnit
-                    value: 9
+                    value: 28
                   type: BUTTON_WIDGET
                   widgetId: bvrkes4g67
                   widgetName: Button1
