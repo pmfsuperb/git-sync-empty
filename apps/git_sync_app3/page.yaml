@@ -111,15 +111,15 @@ layouts:
                   isVisible: true
                   left:
                     mode: gridUnit
-                    value: 33
+                    value: 52
                   parentId: 2cku0toazip
-                  text: haha
+                  text: hehe
                   textAlign: LEFT
                   textStyle: LABEL
                   textType: text
                   top:
                     mode: gridUnit
-                    value: 14
+                    value: 19
                   type: TEXT_WIDGET
                   verticalAlign: AUTO
                   widgetId: nrosfuxvz1
