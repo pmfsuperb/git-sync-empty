@@ -184,7 +184,7 @@ layouts:
                   isVisible: true
                   left:
                     mode: gridUnit
-                    value: 35
+                    value: 49
                   mapCenter:
                     lat: -34.397
                     long: 150.644
@@ -194,7 +194,7 @@ layouts:
                   parentId: 2cku0toazip
                   top:
                     mode: gridUnit
-                    value: 18
+                    value: 17
                   type: MAP_WIDGET
                   widgetId: 31fk466ikk
                   widgetName: Map1
