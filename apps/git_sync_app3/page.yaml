@@ -111,7 +111,7 @@ layouts:
                   isVisible: true
                   left:
                     mode: gridUnit
-                    value: 48
+                    value: 37
                   parentId: 2cku0toazip
                   text: "8888"
                   textAlign: LEFT
